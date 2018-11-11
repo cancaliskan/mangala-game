@@ -1,0 +1,11 @@
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\bin\Debug\MangalaCSharp.exe.config
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\bin\Debug\MangalaCSharp.exe
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\bin\Debug\MangalaCSharp.pdb
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\obj\Debug\MangalaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\obj\Debug\MangalaCSharp.Form1.resources
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\obj\Debug\MangalaCSharp.Properties.Resources.resources
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\obj\Debug\MangalaCSharp.csproj.GenerateResource.Cache
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\obj\Debug\MangalaCSharp.exe
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\obj\Debug\MangalaCSharp.pdb
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\obj\Debug\MangalaCSharp.BaslangıcEkrani.resources
+C:\Users\canca\Desktop\MangalaCSharp\MangalaCSharp\obj\Debug\MangalaCSharp.Form2.resources
